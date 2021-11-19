@@ -8,7 +8,8 @@ for x in range(1,n+1):
         else:
             print("  ",end="")
 
-            
+        
+        
 
     if x<=n//2:
         d += 1
